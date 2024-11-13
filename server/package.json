@@ -5,12 +5,10 @@
     "deploy": "wrangler deploy --minify"
   },
   "dependencies": {
-    "better-sqlite3": "^11.5.0",
     "hono": "^4.6.9"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20241022.0",
-    "@types/better-sqlite3": "^7.6.11",
     "wrangler": "^3.83.0"
   }
 }
